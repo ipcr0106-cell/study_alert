@@ -1,0 +1,42 @@
+name: reely
+description: Reely - Make your time Reely count
+publish_to: "none"
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  camera: ^0.11.0+2
+  google_mlkit_face_detection: ^0.13.2
+  supabase_flutter: ^2.8.0
+  shared_preferences: ^2.3.0
+  permission_handler: ^11.3.1
+  android_intent_plus: ^5.2.0
+  audioplayers: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/app_icon.png
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Galmuri11
+      fonts:
+        - asset: fonts/Galmuri11.ttf
+  assets:
+    - assets/app_icon.png
+    - assets/app_icon_nonbackground.png
+    - assets/app_icon_light_mode.png
+    - assets/공부중.gif
+    - assets/조는중.gif
+    - assets/mixkit_wake_alarm.mp3

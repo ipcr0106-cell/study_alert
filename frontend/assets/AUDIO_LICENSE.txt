@@ -1,0 +1,7 @@
+깨우기 알람: mixkit_wake_alarm.mp3
+- 출처: Mixkit (https://mixkit.co/) — Sound Effects Free License
+- 라이선스 요약: 상업·비상업 프로젝트에 사용 가능, 별도 저작자 표기 의무 없음
+- 전문: https://mixkit.co/license/#sfxFree
+- 에셋: Mixkit CDN preview (active_storage/sfx/671) — 경고/알람 부저 계열 효과음
+
+※ 정확한 트랙명은 Mixkit 사이트 검색으로 확인할 수 있습니다.
